@@ -1,2 +1,2 @@
 for i in range(5):
-    print('hello')
+    print(f'hello for {i+1}th times')
